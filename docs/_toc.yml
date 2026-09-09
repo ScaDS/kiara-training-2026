@@ -1,0 +1,37 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Preparation
+    chapters:
+    - file: 00_preparation/readme.md
+
+  - caption: Text embeddings
+    chapters:
+    #- file: 01_text-embeddings/01_generate.ipynb
+    #- file: 01_text-embeddings/02_compute_embeddings.ipynb
+    - file: 01_text-embeddings/03_plot.ipynb
+    
+  - caption: Vision embeddings
+    chapters:
+    #- file: 02_vision-embeddings/download.ipynb
+    #- file: 02_vision-embeddings/vision_embeddings_umap.ipynb
+    - file: 02_vision-embeddings/readme.md
+    - file: 02_vision-embeddings-slides/sliceplot.ipynb
+
+  - caption: Retrieval-augmented Generation
+    chapters:
+    - file: 03_rag/20-simple-rag.ipynb
+    - file: 04_rag_advanced/chat-with-hpc-compendium.ipynb
+
+  - caption: Links
+    chapters:
+    - url: https://doi.org/10.5281/zenodo.20825670
+      title: Slides
+    - url: https://creativecommons.org/licenses/by/4.0/
+      title: License CC-BY 4.0
+    - file: imprint
+
