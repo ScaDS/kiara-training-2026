@@ -13,6 +13,7 @@ Diese Übungen richten sich an Lehrende der Universität. Nach der Schulung wiss
 Für das Training sind folgende Übungen geeignet. Da unsere Zeit begrenzt ist, entscheiden Sie sich für 1-2 der Übungen.
 
 * [Rede Generierung](exercises/rede-generierung.md)
+* [Auswahl von Modellen]()
 * [Internetsuche / Deep Research](exercises/deepresearch.md)
 * [Erstellen eines Chatbots](exercises/chatbot.md)
 * [Lehrmaterialien Generieren](exercises/lehr_materialien_generieren.md)
