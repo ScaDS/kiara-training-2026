@@ -5,27 +5,13 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: Preparation
+  - caption: Übungen
     chapters:
-    - file: 00_preparation/readme.md
-
-  - caption: Text embeddings
-    chapters:
-    #- file: 01_text-embeddings/01_generate.ipynb
-    #- file: 01_text-embeddings/02_compute_embeddings.ipynb
-    - file: 01_text-embeddings/03_plot.ipynb
-    
-  - caption: Vision embeddings
-    chapters:
-    #- file: 02_vision-embeddings/download.ipynb
-    #- file: 02_vision-embeddings/vision_embeddings_umap.ipynb
-    - file: 02_vision-embeddings/readme.md
-    - file: 02_vision-embeddings-slides/sliceplot.ipynb
-
-  - caption: Retrieval-augmented Generation
-    chapters:
-    - file: 03_rag/20-simple-rag.ipynb
-    - file: 04_rag_advanced/chat-with-hpc-compendium.ipynb
+    - file: exercises/rede-generierung.md
+    - file: exercises/choose-models.md
+    - file: exercises/deepresearch.md
+    - file: exercises/chatbot.md
+    - file: exercises/lehr_materialien_generieren.md
 
   - caption: Links
     chapters:
