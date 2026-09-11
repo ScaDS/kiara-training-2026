@@ -12,6 +12,7 @@ parts:
     - file: exercises/deepresearch.md
     - file: exercises/chatbot.md
     - file: exercises/lehr_materialien_generieren.md
+    - file: exercises/expose_pruefen.md
 
   - caption: Links
     chapters:
