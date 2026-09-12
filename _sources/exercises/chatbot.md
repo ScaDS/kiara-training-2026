@@ -2,9 +2,11 @@
 
 In dieser Übung werden wir einen Chatbot so instruieren, dass das System Fragen bezüglich eines bestimmten Themas beantworten kann. Wir können dann das System mit vorhandenen Chatbots zum gleichen Thema vergleichen.
 
+In einer erweiterten Aufgabenstellung (siehe unten) erstellen wir eine Wissensbasis mit deren Hilfe andere Fragen zu useren Dokumenten stellen können.
+
 ## Die Aufgabe
 
-Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Chat. Fügen Sie diesen ggf. sehr langen Prompt als erste Nachricht ein. 
+Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Chat. Fügen Sie diesen ggf. sehr langen Prompt als erste Nachricht ein.
 
 Anschließend können Sie Fragen aus dem gegebenen Kontext stellen und verifizieren, ob die Antwort tatsächlich aus der gegebenen Wissensbasis generiert wurde. Fragen Sie auch nach Themen außerhalb des Themengebiets: Kann der auf Gute Wissenschaftliche Praxis spezialisierte Chatbot Kochrezepte schreiben? Kann ein Chatbot, der auf Datenmanagementpläne spezialisiert ist, auch Auskunft zu regionalen Ausflugszielen geben?
 
@@ -57,16 +59,29 @@ Frage mich so lange aus, bis Du alle Informationen zusammen hast,
 um <DOKUMENT> für mich zu schreiben.
 ```
 
-## Beispiele
+### Erweiterte Aufgabe
 
-### Nutzung generativer KI
+Speichern Sie die Wissensbasis als PDF ab, oder nutzen Sie offizielle Dokumente der Universität wie bspw. die [Prüfungsordnung des Bachelorstudiengangs Informatik](https://amb.uni-leipzig.de/f-Download-d-dokument.html?id=4680) oder [des Masterstudiengangs Informatik](https://amb.uni-leipzig.de/f-Download-d-dokument.html?id=4855). Laden Sie sie als Wissensbasis hoch. In KIARA klicken Sie dazu zuerst auf `Workspace`:
 
-![](chatbot3.png) 
+![](kb1.png)
 
-### Gute Wissenschaftliche Praxis
+Geben Sie Ihrer Wissensbasis einen griffigen Namen und eine Beschreibung. Je genauer sie hier spezifizieren, was in der Wissensbasis steckt, desto wahrscheinlicher findet die KI später relevante Informationen.
 
-![](kodex_chatbot.png)
+![](kb2.png)
 
-### Schreiben eines DMPs
+Laden Sie die Dokumente der Wissensbasis hoch:
 
-![](dmp_chatbot.png)
+![](kb3.png)
+
+Starten Sie einen neuen Chat und fragen Sie eine Frage deren Antwort Sie mithilfe der PDFs selbst verifizeren können. Beispiel: "Ich studiere Bachelor Informatik. Wie lang ist die Regelstudienzeit?"
+
+![](kb4.png)
+
+Klicken Sie auf die Quellenangabe um die zitierten Quellen anzuzeigen.
+
+![](kb5.png)
+
+Überprüfen Sie ob die Kerninformation tatsächlich in den zitierten Quellen angegeben ist.
+
+![](kb6.png)
+

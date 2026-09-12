@@ -17,6 +17,10 @@ Deine Aufgabe ist es Fallbeispiele zur anderen Situationen zu generieren, die di
 Erzeuge ein ähnliches Beispiel für einen Patienten mit Kaufzwang: Peter kauft sich regelmäßig neue Klamotten, die er eigentlich nicht braucht.
 ```
 
+## Weitergehende Übung
+
+Passen Sie die Übung an Ihre Domäne an! Nutzen Sie ggf. eigene Übungsaufgaben und lassen Sie sie individualisieren.
+
 ## Spoiler
 
 [Spoiler](https://chatgpt.com/share/68ce52fa-90e0-8001-aa7b-49c80eabbab8)
