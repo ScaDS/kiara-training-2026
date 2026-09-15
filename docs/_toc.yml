@@ -16,7 +16,7 @@ parts:
 
   - caption: Links
     chapters:
-    - url: https://doi.org/10.5281/zenodo.20825670
+    - url: https://doi.org/10.5281/zenodo.22764836
       title: Slides
     - url: https://creativecommons.org/licenses/by/4.0/
       title: License CC-BY 4.0
