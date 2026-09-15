@@ -2,7 +2,7 @@
 
 Die Schulungsunterlagen in diesem Ordner richten sich an Mitarbeitende der Universität Leipzig, die daran interessiert sind, unseren hausinternen Large-Language-Model-Server KIARA für die Lehre einzusetzen.
 
-**Hinweis:** KIARA steht derzeit nur für Forschungszwecke zur Verfügung und noch nicht für die Lehre. Diese Schulung soll potenziellen zukünftigen Nutzer:innen einen frühzeitigen Zugang ermöglichen, damit sie bereits jetzt zu Einsatzzwecken von KI in der Lehre forschen können, bevor die rechtlichen Beschränkungen aufgehoben werden und das System für breitere Anwendungsfälle zur Verfügung steht.
+**Hinweis:** KIARA steht derzeit nur für Forschungszwecke am [ScaDS.AI](http://scads.ai/) zur Verfügung und noch nicht für die Lehre an der Universität Leipzig. Diese Schulung soll potenziellen zukünftigen Nutzer:innen einen temporären, frühzeitigen Zugang ermöglichen, damit sie bereits jetzt zusammen mit uns ScaDS.AI-Mitarbeitenden zu Einsatzzwecken von KI in der Lehre forschen können, bevor die rechtlichen Beschränkungen aufgehoben werden und das System für breitere Anwendungsfälle zur Verfügung steht.
 
 ## Zielgruppe und Lernziel
 
