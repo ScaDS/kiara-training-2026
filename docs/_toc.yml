@@ -10,7 +10,7 @@ parts:
     - file: exercises/rede-generierung.md
     - file: exercises/choose-models.md
     - file: exercises/deepresearch.md
-    - file: exercises/chatbot.md
+    - file: exercises/knowledgebase.md
     - file: exercises/lehr_materialien_generieren.md
     - file: exercises/expose_pruefen.md
 
