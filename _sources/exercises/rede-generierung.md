@@ -8,3 +8,4 @@ In dieser Übung wollen wir eine Rede generieren. Ein Beispiel-Prompt ist in [di
 
 Hinweis: Limitieren Sie die Zeit, die Sie hierfür benutzen. Es folgen andere spannende Übungen.
 
+![](rede.png)

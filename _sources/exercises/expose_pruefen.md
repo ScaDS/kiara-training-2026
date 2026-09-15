@@ -17,7 +17,7 @@ Aktivieren Sie - falls vorhanden - Web-Search/Deep-Research, damit das System di
 
 ## Gruppenarbeit
 
-Formulieren Sie einen eigenen Prompt in einem gemeinsamen Dokument, bspw. in der Speicherwolke der Universität Leipzig oder bei Google Docs. Jedes Gruppenmitglied schickt denselben Prompt mit dem Exposé an ein anderes System. Vergleichen Sie die Ergebnisse: Welche Schwachstellen und welche nicht-existenten Quellen wurden gefunden? Und: Behauptet ein System, Quellen „geprüft“ zu haben, die es gar nicht überprüfen konnte?
+Formulieren Sie einen eigenen Prompt in einem gemeinsamen Dokument, ([bspw. in der Speicherwolke](https://speicherwolke.uni-leipzig.de/index.php/login) oder bei [Google Docs](https://docs.google.com/)). Jedes Gruppenmitglied schickt denselben Prompt mit dem Exposé an ein anderes System. Vergleichen Sie die Ergebnisse: Welche Schwachstellen und welche nicht-existenten Quellen wurden gefunden? Und: Behauptet ein System, Quellen „geprüft“ zu haben, die es gar nicht überprüfen konnte?
 
 ## Spoiler
 

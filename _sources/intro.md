@@ -15,7 +15,7 @@ Für das Training sind folgende Übungen geeignet. Da unsere Zeit begrenzt ist, 
 * [Rede Generierung](exercises/rede-generierung.md)
 * [Auswahl von Modellen](exercises/choose-models.md)
 * [Internetsuche / Deep Research](exercises/deepresearch.md)
-* [Erstellen eines Chatbots](exercises/chatbot.md)
+* [Erstellen einer Wissensbasis](exercises/knowledgebase.md)
 * [Lehrmaterialien Generieren](exercises/lehr_materialien_generieren.md)
 * [Wissenschaftliche Arbeit prüfen](exercises/expose_pruefen.md)
 

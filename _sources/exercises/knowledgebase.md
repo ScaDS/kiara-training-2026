@@ -1,8 +1,8 @@
-# Erstellen eines eigenen Chatbots
+# Erstellen einer Wissensbasis
 
-In dieser Übung werden wir einen Chatbot so instruieren, dass das System Fragen bezüglich eines bestimmten Themas beantworten kann. Wir können dann das System mit vorhandenen Chatbots zum gleichen Thema vergleichen.
+In dieser Übung werden wir eine Wissensbasis aufbauen, damit wir mit einem Chatbot bezüglich eines bestimmten Themas diskutieren können. 
 
-In einer erweiterten Aufgabenstellung (siehe unten) erstellen wir eine Wissensbasis mit deren Hilfe andere Fragen zu useren Dokumenten stellen können.
+In einer erweiterten Aufgabenstellung (siehe unten) erstellen wir eine Wissensbasis in einer Form, wie wir sie auch mit anderen teilen können.
 
 ## Die Aufgabe
 
